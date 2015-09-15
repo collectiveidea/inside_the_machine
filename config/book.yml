@@ -1,0 +1,11 @@
+---
+slug: inside_the_machine
+filename: inside_the_machine
+title: Title of the Book
+subtitle: Change me
+description: Change me.
+author: Author Name
+copyright: 2015
+uuid: 274bb123-6f44-4be8-ae71-57169d741aa3
+pdf_preview_page_range: 1..30
+epub_mobi_preview_chapter_range: 0..1
