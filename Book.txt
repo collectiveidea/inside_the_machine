@@ -5,5 +5,15 @@ tableofcontents
 preface.md
 mainmatter:
 a_chapter.md
-another_chapter.md
-yet_another_chapter.md
+basic_computing_concepts.md
+the_mechanics_of_program_execution.md
+pipelined_execution.md
+superscalar_execution.md
+the_intel_pentium_and_pentium_pro.md
+arm_1.md
+intels_pentium_4_vs_arm_2_philosophy.md
+intels_pentium_4_vs_arm_2_back_end.md
+64_bit_computing_and_x86_64.md
+arm_3.md
+understanding_caching_and_performance.md
+intels_pentium_m_and_core.md
