@@ -4,7 +4,6 @@ maketitle
 tableofcontents
 preface.md
 mainmatter:
-a_chapter.md
 basic_computing_concepts.md
 the_mechanics_of_program_execution.md
 pipelined_execution.md

@@ -3,7 +3,6 @@ slug: inside_the_machine
 filename: inside_the_machine
 title: Inside the Machine, Second Edition
 subtitle: An Illustrated Introduction to Microprocessors and Computer Architecture
-description: Inside the Machine, from the co-founder of the highly respected Ars Technica website, explains how microprocessors operate--what they do and how they do it. Now in softcover, the book uses analogies, full-color diagrams, and clear language to convey the ideas that form the basis of modern computing. After discussing computers in the abstract, the book examines specific microprocessors from Intel, IBM, and Motorola, from the original models up through today's leading processors. It contains the most comprehensive and up-to-date information available (online or in print) on Intel's latest processors: the Pentium M, Core, and Core 2 Duo. Inside the Machine also explains technology terms and concepts that readers often hear but may not fully understand, such as "pipelining," "L1 cache," "main memory," "superscalar processing," and "out-of-order execution."
 author: Jon Stokes
 copyright: 2015
 uuid: 274bb123-6f44-4be8-ae71-57169d741aa3

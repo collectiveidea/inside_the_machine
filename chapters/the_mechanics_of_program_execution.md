@@ -1,4 +1,5 @@
 # Another chapter
+\label{cha:the_mechanics_of_program_execution}
 
 This is another chapter.[^numbering] It also includes a little code fencing, mainly to test an edge case for the sake of the Softcover test suite:[^why_code_fencing]
 
