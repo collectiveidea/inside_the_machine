@@ -229,8 +229,9 @@ There are four parts to this instruction format, each of which is called a _fiel
 
 As a quick illustration, an addition instruction that adds the numbers in registers `A` and `B` (the two source registers) and places the result in register `C` (the destination register) would look like this:
 
-```
-add A, B, C # Add the contents of registers A and B and place the result in C, overwriting whatever was previously there.
+```ruby
+add A, B, C # Add the contents of registers A and B and place the result in C,
+            # overwriting whatever was previously there.
 ```
 
 #### The DLW-1’s Memory Instruction Format
