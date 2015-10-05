@@ -12,7 +12,7 @@ generated_polytex/
 .softcover-book
 
 # Generated HTML files
-html/*.html
+#html/*.html
 
 # Generated EPUB files
 epub/OEBPS/*.html
